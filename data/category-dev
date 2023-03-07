@@ -5,6 +5,7 @@ include:archlinux
 include:bootstrap
 include:braveux
 include:canonical
+include:category-container
 include:dart
 include:debian
 include:docker
@@ -34,6 +35,7 @@ include:microsoft-dev
 include:mongodb
 include:nginx
 include:openwrt
+include:osdn
 include:perl
 include:polymer
 include:python
@@ -43,6 +45,7 @@ include:readthedocs
 include:redis
 include:remirepo
 include:ruby
+include:rust
 include:scala
 include:stackexchange
 include:strikingly
@@ -55,6 +58,7 @@ include:v8
 include:vim
 include:xda
 
+adventofcode.com
 alpinelinux.org
 apache.org
 atom.io
@@ -68,9 +72,11 @@ centos.org
 chocolatey.org
 clojure.org
 cnpmjs.org
+codeberg.org
 cygwin.com
 cython.org
 deno.land
+dev.to
 elixir-lang.org
 elrepo.org
 erlang.org
@@ -85,6 +91,8 @@ gnu.org
 # PuTTY and some software official websites.
 greenend.org.uk
 
+hex.pm
+hexdocs.pm
 ius.io
 jenkins.io
 js.org
@@ -135,6 +143,8 @@ termius.com
 unpkg.com
 videojs.com
 videolan.org
+wapm.io
+wasmer.io
 wireshark.org
 x.org
 xposed.info
